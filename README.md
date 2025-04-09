@@ -15,7 +15,12 @@ This project aims to provide a set of tools and endpoints to integrate with and 
 ## Getting Started
 
 ### Prerequisites
-- Ensure you have `Node.js` , `npm` , `Postman` and `Newman` installed on your machine.
+To set up and use the Booking API, ensure you have the following tools installed:
+- [Node.js](https://nodejs.org/) (v14 or later)
+- [npm](https://www.npmjs.com/) (bundled with Node.js)
+- [Postman](https://www.postman.com/) (for test development)
+- [Newman](https://github.com/postmanlabs/newman) for running Postman collections via CLI
+- ----------------------------------------------------------------------------------------
 - Clone the repository:
   ```bash
   git clone https://github.com/eslam-magdy-alaskary/Trello.api.git
